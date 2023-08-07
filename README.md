@@ -1,7 +1,7 @@
 ### This is Wasser's github account!
 👋Hi,I'm Wasser,a student currently learning computer science.
 
-If you want to reach me, please email wzl1224413636@gmail.com 📫
+If you want to reach me, please email wasser2545@gmail.com 📫
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=WASSER2545&theme=calm&show_icons=true" />
