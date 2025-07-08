@@ -1,5 +1,5 @@
 ### This is Wasser's github account!
-👋Hi,I'm Wasser,a student currently learning computer science.
+👋Hi,I'm Wasser, currently a database researcher.
 
 If you want to reach me, please email ZhengleWang@outlook.com 📫
 
